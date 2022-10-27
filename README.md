@@ -5,7 +5,7 @@
 Clone this repo and cd into it:
 
 ```bash
-git clone git@code.siemens.com:daniel.igel/local-php-environment.git
+git clone git@github.com:maddeye/-local-php-environment.git
 cd local-php-environment
 ```
 
